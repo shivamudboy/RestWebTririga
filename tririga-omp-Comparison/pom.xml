@@ -7,7 +7,7 @@
 	<artifactId>OMPComparison</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>spring</name>
+	<name>spring1</name>
 	<description>Spring Boot Project</description>
 
 	<parent>
