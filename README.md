@@ -1,2 +1,2 @@
-# RestWebTririga
-Rest WebServices for Tririga
+# SecurityManagerTririga
+Security Manager For Tririga
